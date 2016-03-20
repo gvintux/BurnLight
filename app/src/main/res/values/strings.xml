@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">BurnLight</string>
+    <string name="light_switch_caption">Burn light</string>
+</resources>
